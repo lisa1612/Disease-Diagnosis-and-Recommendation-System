@@ -1,2 +1,2 @@
 # Disease-Diagnosis-and-Recommendation-System
-A system that analyses patient symptoms and provides preliminary diagnoses along with recommended treatments.
+This project aims to develop an intelligent system for accurately diagnosing diseases and providing personalized recommendations for treatment options. 
