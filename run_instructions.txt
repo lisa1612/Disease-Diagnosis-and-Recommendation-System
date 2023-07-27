@@ -1,0 +1,2 @@
+To run the Streamlit app, execute the following command in your terminal or command prompt:
+streamlit run app3.py
