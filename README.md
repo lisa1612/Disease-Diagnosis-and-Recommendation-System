@@ -14,5 +14,6 @@ The Disease Diagnosis and Recommendation System (DDRS) is an intelligent web app
 ## Installation and Usage
 1. Clone this repository to your local machine.
 2. Install the required dependencies by running: `pip install -r requirements.txt`
-3. Run the application using: `streamlit run app3.py`
+3. Make sure all the files are in the same directory and images are inside the 'images' folder. 
+4. Run the application using: `streamlit run app3.py`
 
